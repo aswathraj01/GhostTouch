@@ -1,6 +1,6 @@
 # 👻GhostTouch
 
-GhostTouch is a futuristic desktop interaction tool that lets you control your computer using finger movements captured via your webcam — no physical contact needed.
+GhostTouch is a futuristic desktop interaction .
 
 ## 🚀 Features
 
