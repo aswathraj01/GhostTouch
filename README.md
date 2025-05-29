@@ -31,13 +31,14 @@ Run the main script:    python ghosttouch.py
 
 ### 📁 Project Structure
 
-GhostTouch/
+<pre>GhostTouch/
 ├── ghosttouch.py           # Main app loop
 ├── gestures.py             # Gesture detection logic
 ├── controller.py           # System control interface
 ├── utils.py                # Smoothing, filters, helpers
 ├── assets/                 # (Optional) UI overlays or icons
-└── README.md               # Project documentation
+└── README.md               # Project documentation</pre>
+
 
 
 ### ✨ Future Plans
